@@ -9,14 +9,14 @@ Copie o codigo todo. Na linha 30 voce ira colar o texto que desejar
 # Exemplo
 
 enviarScript(`
-    //Colar o texto Aqui  
+//Colar o texto Aqui  
     teste
     teste
     teste
     teste
-    // Precisa Colocar o texto assim quebrando linha
+// Precisa Colocar o texto assim quebrando linha
 `);
 
-Depois de feito isso abra o seu WhatsApp pelo navegador, Abra alguma conversa aperte F12 vá em console, Cole o codigo e de enter.
+Depois de feito isso abra o seu WhatsApp pelo navegador, Abra alguma conversa, aperte F12 vá em console, Cole o codigo e de enter.
 
 Nao saia da conversa pois ele ira spamar onde estiver aberto.
