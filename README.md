@@ -8,8 +8,7 @@ Copie o codigo todo. Na linha 30 voce ira colar o texto que desejar
 
 # Exemplo
 
-enviarScript(`
-//Colar o texto Aqui  
+enviarScript(` 
     teste
     teste
     teste
