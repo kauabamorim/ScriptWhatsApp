@@ -4,7 +4,8 @@ Esse projeto é um script feito com JavaScript, feito para Spamar textos no What
 
 # Como Executar
 
-Copie o codigo todo. Na linha 30 voce ira colar o texto que desejar
+Copie o codigo todo. 
+Na linha 30 voce ira colar o texto que desejar
 
 # Exemplo
 
